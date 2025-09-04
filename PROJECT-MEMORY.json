@@ -1,0 +1,60 @@
+{
+  "projekt": {
+    "name": "Blitzschutz Adams Workflow Optimierung",
+    "start": "2025-09-04",
+    "status": "Phase 0: IST-Analyse",
+    "ziel": "60% Zeitersparnis durch Automatisierung"
+  },
+  "sessions": [
+    {
+      "datum": "2025-09-04",
+      "session": 1,
+      "fokus": "Projektinitialisierung & IST-Analyse-Planung",
+      "erledigt": [
+        "10 To-Do Aufgaben in MS To-Do erstellt",
+        "Wochenplan Woche 1 definiert",
+        "Tägliches Workflow-Tagebuch eingerichtet",
+        "GitHub Memory initialisiert"
+      ],
+      "erkenntnisse": [
+        "Nutzer ist kein Programmierer - einfache Lösungen nötig",
+        "Excel-Workflow ist zentral",
+        "IST-Analyse MUSS vor Automatisierung erfolgen"
+      ]
+    }
+  ],
+  "kritische_fragen": {
+    "workflow": [
+      "Welche Excel-Dateien existieren?",
+      "Wie läuft ein Auftrag von A-Z?",
+      "Wo sind die größten Zeitfresser?",
+      "Welche Tools werden aktuell genutzt?"
+    ],
+    "technisch": [
+      "Excel-Version?",
+      "Cloud-Speicher?",
+      "Mobile Geräte?",
+      "Bestehende Software?"
+    ]
+  },
+  "nächste_schritte": {
+    "sofort": [
+      "Excel-Screenshots aller Dateien",
+      "Spaltenüberschriften dokumentieren",
+      "1 Auftrag komplett durchspielen"
+    ],
+    "woche1": {
+      "montag": "Excel-Inventur",
+      "dienstag": "Auftrag dokumentieren",
+      "mittwoch": "Teams-Session",
+      "donnerstag": "Excel optimieren",
+      "freitag": "Test & Bilanz"
+    }
+  },
+  "entscheidungen": [],
+  "offene_punkte": [
+    "Planner-Plan noch nicht erstellt (API-Limitierung)",
+    "OneNote-Integration prüfen",
+    "MCP Memory Server evaluieren"
+  ]
+}
