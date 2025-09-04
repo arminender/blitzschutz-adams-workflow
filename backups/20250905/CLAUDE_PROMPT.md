@@ -29,13 +29,6 @@ ERKENNTNISSE:
 - Was war überraschend?
 - Erste Quick Win Idee?
 
-BEREITS ERFASSTE DATEN (05.09.2025):
-- 518 Datensätze analysiert
-- 40+ Projektnummern (K00XXXX)
-- 60+ Kundenobjekte dokumentiert
-- GPS-Koordinaten für alle Objekte vorhanden
-- KRITISCH: Leistungsnachweis-Unterschrift für Bezahlung!
-
 Bitte aktualisiere basierend auf meinen Antworten:
 1. Apple Notes Status
 2. GitHub PROJECT_STATUS.md
@@ -105,26 +98,6 @@ Dann plane mit mir die nächsten Schritte.
 - Predictive Analytics läuft?
 - Vollautomatisierung erreicht?
 ```
-
----
-
-## 📊 WICHTIGE ERKENNTNISSE AUS EXCEL-ANALYSE (05.09.2025)
-
-### Datenbestand:
-- **518 Datensätze** in Q4/2025 Abrechnungsdatei
-- **40+ aktive Projektnummern** (K00XXXX-Format)
-- **60+ Kundenobjekte** (Schulen, Firmen, öffentliche Einrichtungen)
-- **3 Prüfer** (Armin, Ruben, Seibert Wolfgang)
-
-### Kritische Punkte:
-- ⚠️ **LEISTUNGSNACHWEIS-UNTERSCHRIFT** = Voraussetzung für Bezahlung!
-- ⚠️ **Mess-Stellen variieren stark**: 6-101 pro Objekt
-- ⚠️ **Arbeitszeiten**: 07:11 - 15:23 Uhr (Zeitfenster beachten!)
-
-### Quick Win Potenziale:
-- ✅ GPS-Koordinaten bereits vorhanden → Routenoptimierung möglich
-- ✅ Standardisierte K-Nummern → Automatisierung einfach
-- ✅ Klare Gebührenstruktur → Rechnungsautomatisierung möglich
 
 ---
 
