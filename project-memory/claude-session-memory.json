@@ -1,0 +1,213 @@
+{
+  "project": {
+    "name": "Blitzschutz Adams Workflow Optimization",
+    "status": "PHASE 1 - IST-Analyse",
+    "start_date": "2025-09-04",
+    "duration": "20 Wochen",
+    "current_week": 1
+  },
+  "stakeholder": {
+    "name": "Armin Ender",
+    "company": "ETSE-Elektrotechnik und Sicherheit",
+    "role": "Projekt Owner",
+    "location": "Frankfurt/Königsbach"
+  },
+  "project_structure": {
+    "phase_1": {
+      "name": "IST-Analyse & Quick Wins",
+      "duration": "Wochen 1-4",
+      "status": "AKTIV",
+      "key_objectives": [
+        "Workflow-Dokumentation",
+        "Excel-Datenanalyse",
+        "Zeiterfassung pro Arbeitsschritt",
+        "Google Drive Migration",
+        "Erste Automatisierungen"
+      ],
+      "deliverables": {
+        "week_1": [
+          "IST-Zustand komplett dokumentiert",
+          "Excel-Screenshots aller Dateien",
+          "Tagesablauf-Protokoll",
+          "Dateistruktur-Inventar"
+        ],
+        "week_2": [
+          "Excel-Spalten-Analyse",
+          "Verknüpfungs-Matrix",
+          "Mobile Prozesse dokumentiert",
+          "Tool-Inventur"
+        ],
+        "week_3": [
+          "Google Drive Setup",
+          "Excel-Vorlage v1.0",
+          "Copy-Paste Automatisierung",
+          "Ordnerstruktur Standard"
+        ],
+        "week_4": [
+          "OneDrive → Google Migration",
+          "Datenvalidierung automatisiert",
+          "Routenoptimierung v1",
+          "KPIs definiert"
+        ]
+      }
+    },
+    "phase_2": {
+      "name": "System-Integration",
+      "duration": "Wochen 5-10",
+      "status": "GEPLANT",
+      "focus": "Excel → Google Sheets, Mobile Apps, Prozess-Automation"
+    },
+    "phase_3": {
+      "name": "API & Automation",
+      "duration": "Wochen 11-16",
+      "status": "GEPLANT",
+      "focus": "Maps-Integration, Foto-OCR, Reporting-Dashboard"
+    },
+    "phase_4": {
+      "name": "Enterprise & KI",
+      "duration": "Wochen 17-20",
+      "status": "GEPLANT",
+      "focus": "Predictive Analytics, Full Automation"
+    }
+  },
+  "technical_context": {
+    "current_tools": [
+      "Excel (Hauptarbeitsmittel)",
+      "OneDrive",
+      "WhatsApp (Kundenkommunikation)",
+      "Manueller Copy-Paste Workflow"
+    ],
+    "target_tools": [
+      "Google Workspace",
+      "GitHub (Versionskontrolle)",
+      "Microsoft Planner",
+      "Microsoft To-Do",
+      "Automatisierungs-APIs"
+    ],
+    "pain_points": [
+      "Repetitive Copy-Paste zwischen Excel-Dateien",
+      "Keine Mobile-Synchronisation",
+      "Manuelle Routenplanung",
+      "Zeitintensive Dateneingabe",
+      "Fehlende Automatisierung"
+    ]
+  },
+  "workflow_analysis": {
+    "daily_tasks": {
+      "morning": [
+        "Excel-Dateien öffnen",
+        "Kundendaten prüfen",
+        "Auftragsliste erstellen"
+      ],
+      "field_work": [
+        "Blitzschutzprüfungen",
+        "Fotodokumentation",
+        "Handschriftliche Notizen"
+      ],
+      "evening": [
+        "Daten in Excel übertragen",
+        "Berichte erstellen",
+        "WhatsApp-Kommunikation"
+      ]
+    },
+    "time_analysis": {
+      "productive_work": "60%",
+      "admin_overhead": "40%",
+      "optimization_potential": "25-30% Zeitersparnis"
+    }
+  },
+  "project_resources": {
+    "github": {
+      "repository": "arminender/blitzschutz-adams-workflow",
+      "structure": [
+        "README.md",
+        "docs/",
+        "excel-templates/",
+        "scripts/",
+        "project-memory/"
+      ]
+    },
+    "microsoft_planner": {
+      "plan_name": "Blitzschutz Adams Workflow",
+      "buckets": [
+        "PHASE 1: IST-Analyse",
+        "PHASE 2: System-Integration",
+        "PHASE 3: API & Automation",
+        "PHASE 4: Enterprise & KI"
+      ]
+    },
+    "microsoft_todo": {
+      "list_name": "Adams",
+      "categories": [
+        "IST-Analyse",
+        "Quick Wins",
+        "Dokumentation",
+        "Migration"
+      ]
+    }
+  },
+  "session_notes": {
+    "2025-09-04": {
+      "topics": [
+        "Projektplanung diskutiert",
+        "GitHub Repository erstellt",
+        "Planner-Integration besprochen",
+        "Archon-Tool evaluiert (zu komplex)",
+        "Session-Memory implementiert"
+      ],
+      "decisions": [
+        "Keine Archon-Nutzung (Overkill)",
+        "GitHub JSON für Persistenz",
+        "Fokus auf pragmatische Lösungen"
+      ],
+      "next_steps": [
+        "Phase 1 im Planner detailliert anlegen",
+        "Excel-Templates sammeln",
+        "IST-Workflow dokumentieren"
+      ]
+    }
+  },
+  "project_metrics": {
+    "kpis": [
+      "Zeit pro Auftrag",
+      "Fehlerquote Dateneingabe",
+      "Mobile Synchronisation",
+      "Automatisierungsgrad"
+    ],
+    "baseline": {
+      "avg_time_per_order": "45 min",
+      "error_rate": "5%",
+      "mobile_sync": "0%",
+      "automation": "0%"
+    },
+    "targets": {
+      "avg_time_per_order": "30 min",
+      "error_rate": "1%",
+      "mobile_sync": "100%",
+      "automation": "70%"
+    }
+  },
+  "current_priorities": {
+    "immediate": [
+      "Excel-Dateien inventarisieren",
+      "Screenshots erstellen",
+      "Workflow-Tagebuch führen"
+    ],
+    "this_week": [
+      "IST-Zustand vollständig dokumentieren",
+      "Planner-Tasks anlegen",
+      "Zeiterfassung starten"
+    ],
+    "this_month": [
+      "Phase 1 abschließen",
+      "Google Drive Migration",
+      "Erste Automatisierung live"
+    ]
+  },
+  "meta": {
+    "last_updated": "2025-09-04T20:30:00Z",
+    "version": "1.0.0",
+    "format": "claude-session-memory",
+    "usage": "Load this file at session start to restore project context"
+  }
+}
